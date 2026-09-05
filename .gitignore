@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Diagnostic/intermediate outputs, not needed at runtime (see memory:
+# examples_candidates.json is the full pre-trim example-mining pool kept
+# only so future trim-strategy changes don't require re-scanning raw
+# corpora; vocab_gap.json is measure_vocab_gap.py's own diagnostic output).
+app/data/examples_candidates.json
+app/data/vocab_gap.json
+.claude/

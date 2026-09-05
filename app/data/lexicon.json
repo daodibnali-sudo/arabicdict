@@ -1,0 +1,322 @@
+{
+  "roots": [
+    {"letters": ["ك","ت","ب"], "entries": [
+      {"lemma": "كَتَبَ", "pos": "verb", "form": 1, "mudari3_vowel": "u", "glosses": ["to write"], "synonyms": ["حَرَّرَ", "دَوَّنَ"]},
+      {"lemma": "كِتَاب", "pos": "noun", "derivation": "primitive", "glosses": ["book"], "plural": "كُتُب"},
+      {"lemma": "كَاتِب", "pos": "noun", "derivation": "active_participle", "glosses": ["writer"], "plural": "كُتَّاب"},
+      {"lemma": "مَكْتُوب", "pos": "adjective/noun", "derivation": "passive_participle", "glosses": ["written", "letter (piece of mail)"]},
+      {"lemma": "مَكْتَب", "pos": "noun", "derivation": "noun_of_place", "glosses": ["office", "desk"], "plural": "مَكَاتِب"},
+      {"lemma": "مَكْتَبَة", "pos": "noun", "derivation": "noun_of_place", "glosses": ["library", "bookstore"], "plural": "مَكْتَبَات"},
+      {"lemma": "كِتَابَة", "pos": "noun", "derivation": "masdar", "glosses": ["writing"]}
+    ]},
+    {"letters": ["ق","ر","أ"], "entries": [
+      {"lemma": "قَرَأَ", "pos": "verb", "form": 1, "mudari3_vowel": "a", "glosses": ["to read"]},
+      {"lemma": "قِرَاءَة", "pos": "noun", "derivation": "masdar", "glosses": ["reading"]},
+      {"lemma": "قَارِئ", "pos": "noun", "derivation": "active_participle", "glosses": ["reader"], "plural": "قُرَّاء"}
+    ]},
+    {"letters": ["د","ر","س"], "entries": [
+      {"lemma": "دَرَسَ", "pos": "verb", "form": 1, "mudari3_vowel": "u", "glosses": ["to study"]},
+      {"lemma": "دَرَّسَ", "pos": "verb", "form": 2, "glosses": ["to teach"]},
+      {"lemma": "مُدَرِّس", "pos": "noun", "derivation": "active_participle_form2", "glosses": ["teacher"], "plural": "مُدَرِّسُون"},
+      {"lemma": "مَدْرَسَة", "pos": "noun", "derivation": "noun_of_place", "glosses": ["school"], "plural": "مَدَارِس"},
+      {"lemma": "دَرْس", "pos": "noun", "derivation": "masdar", "glosses": ["lesson"], "plural": "دُرُوس"}
+    ]},
+    {"letters": ["ع","ل","م"], "entries": [
+      {"lemma": "عَلِمَ", "pos": "verb", "form": 1, "mudari3_vowel": "a", "glosses": ["to know"]},
+      {"lemma": "عَلَّمَ", "pos": "verb", "form": 2, "glosses": ["to teach"]},
+      {"lemma": "تَعَلَّمَ", "pos": "verb", "form": 5, "glosses": ["to learn"]},
+      {"lemma": "عِلْم", "pos": "noun", "derivation": "masdar", "glosses": ["knowledge", "science"], "plural": "عُلُوم"},
+      {"lemma": "عَالِم", "pos": "noun", "derivation": "active_participle", "glosses": ["scholar", "scientist"], "plural": "عُلَمَاء"},
+      {"lemma": "مَعْلُومَة", "pos": "noun", "derivation": "noun_meem_prefix", "glosses": ["a piece of information"], "plural": "مَعْلُومَات"},
+      {"lemma": "مُعَلِّم", "pos": "noun", "derivation": "active_participle_form2", "glosses": ["teacher"], "plural": "مُعَلِّمُون"}
+    ]},
+    {"letters": ["ف","ه","م"], "entries": [
+      {"lemma": "فَهِمَ", "pos": "verb", "form": 1, "mudari3_vowel": "a", "glosses": ["to understand"]},
+      {"lemma": "أَفْهَمَ", "pos": "verb", "form": 4, "glosses": ["to make (someone) understand"]},
+      {"lemma": "اِسْتَفْهَمَ", "pos": "verb", "form": 10, "glosses": ["to inquire"]},
+      {"lemma": "فَهْم", "pos": "noun", "derivation": "masdar", "glosses": ["understanding"]}
+    ]},
+    {"letters": ["ج","ل","س"], "entries": [
+      {"lemma": "جَلَسَ", "pos": "verb", "form": 1, "mudari3_vowel": "i", "glosses": ["to sit"]},
+      {"lemma": "مَجْلِس", "pos": "noun", "derivation": "noun_of_place", "glosses": ["council", "sitting room"], "plural": "مَجَالِس"},
+      {"lemma": "جَلْسَة", "pos": "noun", "derivation": "masdar", "glosses": ["a sitting", "a session"]}
+    ]},
+    {"letters": ["خ","ر","ج"], "entries": [
+      {"lemma": "خَرَجَ", "pos": "verb", "form": 1, "mudari3_vowel": "u", "glosses": ["to exit", "to go out"]},
+      {"lemma": "أَخْرَجَ", "pos": "verb", "form": 4, "glosses": ["to take out", "to produce (a film)"]},
+      {"lemma": "اِسْتَخْرَجَ", "pos": "verb", "form": 10, "glosses": ["to extract"]},
+      {"lemma": "خَارِج", "pos": "noun/adverb", "derivation": "active_participle", "glosses": ["outside"]},
+      {"lemma": "مَخْرَج", "pos": "noun", "derivation": "noun_of_place", "glosses": ["an exit"], "plural": "مَخَارِج"},
+      {"lemma": "خُرُوج", "pos": "noun", "derivation": "masdar", "glosses": ["exiting", "departure"]}
+    ]},
+    {"letters": ["د","خ","ل"], "entries": [
+      {"lemma": "دَخَلَ", "pos": "verb", "form": 1, "mudari3_vowel": "u", "glosses": ["to enter"]},
+      {"lemma": "أَدْخَلَ", "pos": "verb", "form": 4, "glosses": ["to input", "to bring in"]},
+      {"lemma": "مَدْخَل", "pos": "noun", "derivation": "noun_of_place", "glosses": ["entrance"], "plural": "مَدَاخِل"},
+      {"lemma": "دُخُول", "pos": "noun", "derivation": "masdar", "glosses": ["entering"]}
+    ]},
+    {"letters": ["ع","م","ل"], "entries": [
+      {"lemma": "عَمِلَ", "pos": "verb", "form": 1, "mudari3_vowel": "a", "glosses": ["to work", "to do"]},
+      {"lemma": "اِسْتَعْمَلَ", "pos": "verb", "form": 10, "glosses": ["to use"]},
+      {"lemma": "عَمَل", "pos": "noun", "derivation": "masdar", "glosses": ["work", "a job"], "plural": "أَعْمَال"},
+      {"lemma": "عَامِل", "pos": "noun", "derivation": "active_participle", "glosses": ["worker", "factor"], "plural": "عُمَّال"},
+      {"lemma": "اِسْتِعْمَال", "pos": "noun", "derivation": "masdar_form10", "glosses": ["usage"]}
+    ]},
+    {"letters": ["ر","ج","ع"], "entries": [
+      {"lemma": "رَجَعَ", "pos": "verb", "form": 1, "mudari3_vowel": "i", "glosses": ["to return", "to go back"]},
+      {"lemma": "أَرْجَعَ", "pos": "verb", "form": 4, "glosses": ["to give back"]},
+      {"lemma": "اِسْتَرْجَعَ", "pos": "verb", "form": 10, "glosses": ["to retrieve", "to get back"]},
+      {"lemma": "رُجُوع", "pos": "noun", "derivation": "masdar", "glosses": ["a return"]}
+    ]},
+    {"letters": ["و","ص","ل"], "entries": [
+      {"lemma": "وَصَلَ", "pos": "verb", "form": 1, "mudari3_vowel": "i", "glosses": ["to arrive"]},
+      {"lemma": "اِتَّصَلَ", "pos": "verb", "form": 8, "glosses": ["to contact (someone)", "to call"], "note": "assimilated root, و merges into the ت infix"},
+      {"lemma": "تَوَاصَلَ", "pos": "verb", "form": 6, "glosses": ["to communicate (with one another)"]},
+      {"lemma": "وُصُول", "pos": "noun", "derivation": "masdar", "glosses": ["arrival"]},
+      {"lemma": "اِتِّصَال", "pos": "noun", "derivation": "masdar_form8", "glosses": ["contact", "communication"], "plural": "اِتِّصَالَات"}
+    ]},
+    {"letters": ["و","ج","د"], "entries": [
+      {"lemma": "وَجَدَ", "pos": "verb", "form": 1, "mudari3_vowel": "i", "glosses": ["to find"]},
+      {"lemma": "مَوْجُود", "pos": "adjective", "derivation": "passive_participle", "glosses": ["present", "found", "available"]},
+      {"lemma": "وُجُود", "pos": "noun", "derivation": "masdar", "glosses": ["existence"]}
+    ]},
+    {"letters": ["و","ق","ف"], "entries": [
+      {"lemma": "وَقَفَ", "pos": "verb", "form": 1, "mudari3_vowel": "i", "glosses": ["to stop", "to stand"]},
+      {"lemma": "مَوْقِف", "pos": "noun", "derivation": "noun_of_place", "glosses": ["a position", "a stance", "a stop"], "plural": "مَوَاقِف"},
+      {"lemma": "وُقُوف", "pos": "noun", "derivation": "masdar", "glosses": ["standing", "stopping"]}
+    ]},
+    {"letters": ["و","ل","د"], "entries": [
+      {"lemma": "وَلَدَ", "pos": "verb", "form": 1, "mudari3_vowel": "i", "glosses": ["to give birth to"]},
+      {"lemma": "وَلَد", "pos": "noun", "derivation": "primitive", "glosses": ["boy", "child"], "plural": "أَوْلَاد"},
+      {"lemma": "وَالِد", "pos": "noun", "derivation": "active_participle", "glosses": ["father", "parent"], "plural": "وَالِدُون"},
+      {"lemma": "مَوْلُود", "pos": "noun/adjective", "derivation": "passive_participle", "glosses": ["newborn"]},
+      {"lemma": "وِلَادَة", "pos": "noun", "derivation": "masdar", "glosses": ["birth"]}
+    ]},
+    {"letters": ["و","ع","د"], "entries": [
+      {"lemma": "وَعَدَ", "pos": "verb", "form": 1, "mudari3_vowel": "i", "glosses": ["to promise"]},
+      {"lemma": "وَعْد", "pos": "noun", "derivation": "masdar", "glosses": ["a promise"], "plural": "وُعُود"},
+      {"lemma": "مَوْعِد", "pos": "noun", "derivation": "noun_of_place", "glosses": ["an appointment", "a deadline"], "plural": "مَوَاعِيد"}
+    ]},
+    {"letters": ["ق","و","ل"], "entries": [
+      {"lemma": "قَالَ", "pos": "verb", "form": 1, "mudari3_medial": "و", "madi_contraction_vowel": "u", "glosses": ["to say"]},
+      {"lemma": "قَوْل", "pos": "noun", "derivation": "masdar", "glosses": ["a saying", "a statement"], "plural": "أَقْوَال"},
+      {"lemma": "مَقَال", "pos": "noun", "derivation": "noun_of_place", "glosses": ["an article (written)"], "plural": "مَقَالَات"}
+    ]},
+    {"letters": ["ن","و","م"], "entries": [
+      {"lemma": "نَامَ", "pos": "verb", "form": 1, "mudari3_medial": "ا", "madi_contraction_vowel": "i", "glosses": ["to sleep"]},
+      {"lemma": "نَوْم", "pos": "noun", "derivation": "masdar", "glosses": ["sleep"]}
+    ]},
+    {"letters": ["ز","و","ر"], "entries": [
+      {"lemma": "زَارَ", "pos": "verb", "form": 1, "mudari3_medial": "و", "madi_contraction_vowel": "u", "glosses": ["to visit"]},
+      {"lemma": "زِيَارَة", "pos": "noun", "derivation": "masdar", "glosses": ["a visit"], "plural": "زِيَارَات"},
+      {"lemma": "زَائِر", "pos": "noun", "derivation": "active_participle", "glosses": ["visitor"], "plural": "زُوَّار"}
+    ]},
+    {"letters": ["ب","ي","ع"], "entries": [
+      {"lemma": "بَاعَ", "pos": "verb", "form": 1, "mudari3_medial": "ي", "madi_contraction_vowel": "i", "glosses": ["to sell"]},
+      {"lemma": "بَيْع", "pos": "noun", "derivation": "masdar", "glosses": ["selling"]},
+      {"lemma": "بَائِع", "pos": "noun", "derivation": "active_participle", "glosses": ["seller"], "plural": "بَاعَة"}
+    ]},
+    {"letters": ["ص","ي","ر"], "entries": [
+      {"lemma": "صَارَ", "pos": "verb", "form": 1, "mudari3_medial": "ي", "madi_contraction_vowel": "i", "glosses": ["to become"]}
+    ]},
+    {"letters": ["ع","و","د"], "entries": [
+      {"lemma": "عَادَ", "pos": "verb", "form": 1, "mudari3_medial": "و", "madi_contraction_vowel": "u", "glosses": ["to return", "to come back"]},
+      {"lemma": "أَعَادَ", "pos": "verb", "form": 4, "glosses": ["to repeat", "to redo"], "note": "Form IV hollow — approximate conjugation"},
+      {"lemma": "عَوْدَة", "pos": "noun", "derivation": "masdar", "glosses": ["a return"]}
+    ]},
+    {"letters": ["د","ع","و"], "entries": [
+      {"lemma": "دَعَا", "pos": "verb", "form": 1, "mudari3_vowel": "u", "glosses": ["to call", "to invite"]},
+      {"lemma": "اِسْتَدْعَى", "pos": "verb", "form": 10, "glosses": ["to summon"], "note": "Form X defective — approximate conjugation"},
+      {"lemma": "دُعَاء", "pos": "noun", "derivation": "masdar", "glosses": ["a prayer", "an invocation"]},
+      {"lemma": "دَعْوَة", "pos": "noun", "derivation": "masdar", "glosses": ["an invitation"], "plural": "دَعَوَات"}
+    ]},
+    {"letters": ["ر","م","ي"], "entries": [
+      {"lemma": "رَمَى", "pos": "verb", "form": 1, "mudari3_vowel": "i", "glosses": ["to throw"]},
+      {"lemma": "رَمْي", "pos": "noun", "derivation": "masdar", "glosses": ["throwing"]}
+    ]},
+    {"letters": ["م","ش","ي"], "entries": [
+      {"lemma": "مَشَى", "pos": "verb", "form": 1, "mudari3_vowel": "i", "glosses": ["to walk"]},
+      {"lemma": "مَشْي", "pos": "noun", "derivation": "masdar", "glosses": ["walking"]}
+    ]},
+    {"letters": ["ب","ن","ي"], "entries": [
+      {"lemma": "بَنَى", "pos": "verb", "form": 1, "mudari3_vowel": "i", "glosses": ["to build"]},
+      {"lemma": "بِنَاء", "pos": "noun", "derivation": "masdar", "glosses": ["building", "construction"], "plural": "أَبْنِيَة"},
+      {"lemma": "مَبْنَى", "pos": "noun", "derivation": "noun_of_place", "glosses": ["a building (structure)"], "plural": "مَبَانٍ"}
+    ]},
+    {"letters": ["ق","ض","ي"], "entries": [
+      {"lemma": "قَضَى", "pos": "verb", "form": 1, "mudari3_vowel": "i", "glosses": ["to spend (time)", "to rule, judge"]},
+      {"lemma": "قَاضِي", "pos": "noun", "derivation": "active_participle", "glosses": ["judge"], "plural": "قُضَاة"},
+      {"lemma": "قَضِيَّة", "pos": "noun", "derivation": "primitive", "glosses": ["an issue", "a case"], "plural": "قَضَايَا"}
+    ]},
+    {"letters": ["ر","د","د"], "entries": [
+      {"lemma": "رَدَّ", "pos": "verb", "form": 1, "glosses": ["to reply", "to give back"]},
+      {"lemma": "رَدّ", "pos": "noun", "derivation": "masdar", "glosses": ["a reply"], "plural": "رُدُود"}
+    ]},
+    {"letters": ["م","د","د"], "entries": [
+      {"lemma": "مَدَّ", "pos": "verb", "form": 1, "glosses": ["to extend", "to stretch"]},
+      {"lemma": "اِمْتَدَّ", "pos": "verb", "form": 8, "glosses": ["to extend (intransitive)"], "note": "Form VIII doubled — approximate conjugation"},
+      {"lemma": "مُدَّة", "pos": "noun", "derivation": "primitive", "glosses": ["a period (of time)"], "plural": "مُدَد"}
+    ]},
+    {"letters": ["ظ","ن","ن"], "entries": [
+      {"lemma": "ظَنَّ", "pos": "verb", "form": 1, "glosses": ["to think", "to suppose"]},
+      {"lemma": "ظَنّ", "pos": "noun", "derivation": "masdar", "glosses": ["an assumption", "a guess"]}
+    ]},
+    {"letters": ["ح","ب","ب"], "entries": [
+      {"lemma": "أَحَبَّ", "pos": "verb", "form": 4, "glosses": ["to love"], "note": "Form IV doubled — approximate conjugation"},
+      {"lemma": "حُبّ", "pos": "noun", "derivation": "masdar", "glosses": ["love"]},
+      {"lemma": "مَحْبُوب", "pos": "noun/adjective", "derivation": "passive_participle", "glosses": ["beloved"]}
+    ]},
+    {"letters": ["س","أ","ل"], "entries": [
+      {"lemma": "سَأَلَ", "pos": "verb", "form": 1, "mudari3_vowel": "a", "glosses": ["to ask"]},
+      {"lemma": "سُؤَال", "pos": "noun", "derivation": "masdar", "glosses": ["a question"], "plural": "أَسْئِلَة"}
+    ]},
+    {"letters": ["أ","ك","ل"], "entries": [
+      {"lemma": "أَكَلَ", "pos": "verb", "form": 1, "mudari3_vowel": "u", "glosses": ["to eat"]},
+      {"lemma": "أَكْل", "pos": "noun", "derivation": "masdar", "glosses": ["eating"]}
+    ]},
+    {"letters": ["أ","خ","ذ"], "entries": [
+      {"lemma": "أَخَذَ", "pos": "verb", "form": 1, "mudari3_vowel": "u", "glosses": ["to take"]},
+      {"lemma": "أَخْذ", "pos": "noun", "derivation": "masdar", "glosses": ["taking"]}
+    ]},
+    {"letters": ["ب","د","أ"], "entries": [
+      {"lemma": "بَدَأَ", "pos": "verb", "form": 1, "mudari3_vowel": "a", "glosses": ["to begin"]},
+      {"lemma": "اِبْتَدَأَ", "pos": "verb", "form": 8, "glosses": ["to begin", "to commence"]},
+      {"lemma": "بِدَايَة", "pos": "noun", "derivation": "primitive", "glosses": ["a beginning"], "plural": "بِدَايَات"},
+      {"lemma": "بَدْء", "pos": "noun", "derivation": "masdar", "glosses": ["a start"]}
+    ]},
+    {"letters": ["ك","ب","ر"], "entries": [
+      {"lemma": "كَبِير", "pos": "adjective", "derivation": "primitive", "glosses": ["big", "old (in age)"], "antonyms": ["صَغِير"]},
+      {"lemma": "كَبُرَ", "pos": "verb", "form": 1, "mudari3_vowel": "u", "glosses": ["to grow big", "to grow old"]},
+      {"lemma": "كِبَر", "pos": "noun", "derivation": "masdar", "glosses": ["old age", "largeness"]}
+    ]},
+    {"letters": ["ص","غ","ر"], "entries": [
+      {"lemma": "صَغِير", "pos": "adjective", "derivation": "primitive", "glosses": ["small", "young"], "antonyms": ["كَبِير"]},
+      {"lemma": "صَغُرَ", "pos": "verb", "form": 1, "mudari3_vowel": "u", "glosses": ["to become small"]}
+    ]},
+    {"letters": ["ج","م","ل"], "entries": [
+      {"lemma": "جَمِيل", "pos": "adjective", "derivation": "primitive", "glosses": ["beautiful"], "antonyms": ["قَبِيح"]},
+      {"lemma": "جَمَال", "pos": "noun", "derivation": "masdar", "glosses": ["beauty"]}
+    ]},
+    {"letters": ["ق","ب","ح"], "entries": [
+      {"lemma": "قَبِيح", "pos": "adjective", "derivation": "primitive", "glosses": ["ugly"], "antonyms": ["جَمِيل"]}
+    ]},
+    {"letters": ["س","ع","د"], "entries": [
+      {"lemma": "سَعِيد", "pos": "adjective", "derivation": "primitive", "glosses": ["happy"], "antonyms": ["حَزِين"]},
+      {"lemma": "سَعَادَة", "pos": "noun", "derivation": "masdar", "glosses": ["happiness"]}
+    ]},
+    {"letters": ["ح","ز","ن"], "entries": [
+      {"lemma": "حَزِين", "pos": "adjective", "derivation": "primitive", "glosses": ["sad"], "antonyms": ["سَعِيد"]},
+      {"lemma": "حُزْن", "pos": "noun", "derivation": "masdar", "glosses": ["sadness"]}
+    ]},
+    {"letters": ["ط","و","ل"], "entries": [
+      {"lemma": "طَوِيل", "pos": "adjective", "derivation": "primitive", "glosses": ["tall", "long"], "antonyms": ["قَصِير"]}
+    ]},
+    {"letters": ["ق","ص","ر"], "entries": [
+      {"lemma": "قَصِير", "pos": "adjective", "derivation": "primitive", "glosses": ["short"], "antonyms": ["طَوِيل"]}
+    ]},
+    {"letters": ["ج","د","د"], "entries": [
+      {"lemma": "جَدِيد", "pos": "adjective", "derivation": "primitive", "glosses": ["new"], "antonyms": ["قَدِيم"]}
+    ]},
+    {"letters": ["ق","د","م"], "entries": [
+      {"lemma": "قَدِيم", "pos": "adjective", "derivation": "primitive", "glosses": ["old (thing)"], "antonyms": ["جَدِيد"]},
+      {"lemma": "تَقَدَّمَ", "pos": "verb", "form": 5, "glosses": ["to advance", "to progress"]},
+      {"lemma": "مُقَدِّمَة", "pos": "noun", "derivation": "noun_meem_prefix", "glosses": ["an introduction"]}
+    ]},
+    {"letters": ["ح","ر","ر"], "entries": [
+      {"lemma": "حَارّ", "pos": "adjective", "derivation": "primitive", "glosses": ["hot"], "antonyms": ["بَارِد"]}
+    ]},
+    {"letters": ["ب","ر","د"], "entries": [
+      {"lemma": "بَارِد", "pos": "adjective", "derivation": "active_participle", "glosses": ["cold"], "antonyms": ["حَارّ"]},
+      {"lemma": "بَرْد", "pos": "noun", "derivation": "masdar", "glosses": ["cold (weather)"]}
+    ]},
+    {"letters": ["ق","و","ي"], "entries": [
+      {"lemma": "قَوِيّ", "pos": "adjective", "derivation": "primitive", "glosses": ["strong"], "antonyms": ["ضَعِيف"]}
+    ]},
+    {"letters": ["ض","ع","ف"], "entries": [
+      {"lemma": "ضَعِيف", "pos": "adjective", "derivation": "primitive", "glosses": ["weak"], "antonyms": ["قَوِيّ"]},
+      {"lemma": "ضَعُفَ", "pos": "verb", "form": 1, "mudari3_vowel": "u", "glosses": ["to become weak"]}
+    ]},
+    {"letters": ["غ","ن","ي"], "entries": [
+      {"lemma": "غَنِيّ", "pos": "adjective", "derivation": "primitive", "glosses": ["rich"], "antonyms": ["فَقِير"]}
+    ]},
+    {"letters": ["ف","ق","ر"], "entries": [
+      {"lemma": "فَقِير", "pos": "adjective", "derivation": "primitive", "glosses": ["poor"], "antonyms": ["غَنِيّ"]}
+    ]},
+    {"letters": ["س","ه","ل"], "entries": [
+      {"lemma": "سَهْل", "pos": "adjective", "derivation": "primitive", "glosses": ["easy"], "antonyms": ["صَعْب"]}
+    ]},
+    {"letters": ["ص","ع","ب"], "entries": [
+      {"lemma": "صَعْب", "pos": "adjective", "derivation": "primitive", "glosses": ["difficult"], "antonyms": ["سَهْل"]}
+    ]},
+    {"letters": ["ب","ي","ت"], "entries": [
+      {"lemma": "بَيْت", "pos": "noun", "derivation": "primitive", "glosses": ["house"], "plural": "بُيُوت"}
+    ]},
+    {"letters": ["س","ي","ر"], "entries": [
+      {"lemma": "سَارَ", "pos": "verb", "form": 1, "mudari3_medial": "ي", "madi_contraction_vowel": "i", "glosses": ["to walk", "to proceed", "to drive"]},
+      {"lemma": "سَيَّارَة", "pos": "noun", "derivation": "primitive", "glosses": ["car"], "plural": "سَيَّارَات"}
+    ]},
+    {"letters": ["ج","م","ع"], "entries": [
+      {"lemma": "جَمَعَ", "pos": "verb", "form": 1, "mudari3_vowel": "a", "glosses": ["to gather", "to collect"]},
+      {"lemma": "اِجْتَمَعَ", "pos": "verb", "form": 8, "glosses": ["to meet", "to gather (intransitive)"]},
+      {"lemma": "جَامِعَة", "pos": "noun", "derivation": "primitive", "glosses": ["university"], "plural": "جَامِعَات"},
+      {"lemma": "اِجْتِمَاع", "pos": "noun", "derivation": "masdar_form8", "glosses": ["a meeting"], "plural": "اِجْتِمَاعَات"}
+    ]},
+    {"letters": ["م","د","ن"], "entries": [
+      {"lemma": "مَدِينَة", "pos": "noun", "derivation": "primitive", "glosses": ["city"], "plural": "مُدُن"}
+    ]},
+    {"letters": ["ب","ل","د"], "entries": [
+      {"lemma": "بَلَد", "pos": "noun", "derivation": "primitive", "glosses": ["country", "town"], "plural": "بِلَاد"}
+    ]},
+    {"letters": ["ق","ل","م"], "entries": [
+      {"lemma": "قَلَم", "pos": "noun", "derivation": "primitive", "glosses": ["pen"], "plural": "أَقْلَام"}
+    ]},
+    {"letters": ["ب","و","ب"], "entries": [
+      {"lemma": "بَاب", "pos": "noun", "derivation": "primitive", "glosses": ["door"], "plural": "أَبْوَاب"}
+    ]},
+    {"letters": ["ش","م","س"], "entries": [
+      {"lemma": "شَمْس", "pos": "noun", "derivation": "primitive", "glosses": ["sun"], "plural": "شُمُوس"}
+    ]},
+    {"letters": ["ق","م","ر"], "entries": [
+      {"lemma": "قَمَر", "pos": "noun", "derivation": "primitive", "glosses": ["moon"], "plural": "أَقْمَار"}
+    ]},
+    {"letters": ["م","و","ه"], "entries": [
+      {"lemma": "مَاء", "pos": "noun", "derivation": "primitive", "glosses": ["water"], "plural": "مِيَاه"}
+    ]},
+    {"letters": ["ط","ع","م"], "entries": [
+      {"lemma": "طَعَام", "pos": "noun", "derivation": "primitive", "glosses": ["food"], "plural": "أَطْعِمَة"}
+    ]},
+    {"letters": ["و","ق","ت"], "entries": [
+      {"lemma": "وَقْت", "pos": "noun", "derivation": "primitive", "glosses": ["time"], "plural": "أَوْقَات"}
+    ]},
+    {"letters": ["ي","و","م"], "entries": [
+      {"lemma": "يَوْم", "pos": "noun", "derivation": "primitive", "glosses": ["day"], "plural": "أَيَّام"}
+    ]},
+    {"letters": ["س","ن","و"], "entries": [
+      {"lemma": "سَنَة", "pos": "noun", "derivation": "primitive", "glosses": ["year"], "plural": "سَنَوَات"}
+    ]},
+    {"letters": ["ش","ر","ب"], "entries": [
+      {"lemma": "شَرِبَ", "pos": "verb", "form": 1, "mudari3_vowel": "a", "glosses": ["to drink"]},
+      {"lemma": "شَرَاب", "pos": "noun", "derivation": "primitive", "glosses": ["a drink", "a beverage"], "plural": "أَشْرِبَة"}
+    ]},
+    {"letters": ["ن","ظ","ر"], "entries": [
+      {"lemma": "نَظَرَ", "pos": "verb", "form": 1, "mudari3_vowel": "u", "glosses": ["to look"]},
+      {"lemma": "اِنْتَظَرَ", "pos": "verb", "form": 8, "glosses": ["to wait"]},
+      {"lemma": "نَظَر", "pos": "noun", "derivation": "masdar", "glosses": ["a look", "a view"], "plural": "أَنْظَار"},
+      {"lemma": "مَنْظَر", "pos": "noun", "derivation": "noun_of_place", "glosses": ["a view", "a scene"], "plural": "مَنَاظِر"}
+    ]},
+    {"letters": ["س","م","ع"], "entries": [
+      {"lemma": "سَمِعَ", "pos": "verb", "form": 1, "mudari3_vowel": "a", "glosses": ["to hear"]},
+      {"lemma": "اِسْتَمَعَ", "pos": "verb", "form": 8, "glosses": ["to listen"]},
+      {"lemma": "سَمْع", "pos": "noun", "derivation": "masdar", "glosses": ["hearing"]}
+    ]},
+    {"letters": ["ف","ت","ح"], "entries": [
+      {"lemma": "فَتَحَ", "pos": "verb", "form": 1, "mudari3_vowel": "a", "glosses": ["to open"]},
+      {"lemma": "اِفْتَتَحَ", "pos": "verb", "form": 8, "glosses": ["to inaugurate"]},
+      {"lemma": "فَتْح", "pos": "noun", "derivation": "masdar", "glosses": ["an opening", "a conquest"]}
+    ]},
+    {"letters": ["غ","ل","ق"], "entries": [
+      {"lemma": "أَغْلَقَ", "pos": "verb", "form": 4, "glosses": ["to close"]},
+      {"lemma": "إِغْلَاق", "pos": "noun", "derivation": "masdar_form4", "glosses": ["closing"]}
+    ]}
+  ]
+}

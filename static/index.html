@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Arabic-English Dictionary</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Amiri:ital@0;1&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/style.css">
+<script>
+  (function () {
+    try {
+      var stored = localStorage.getItem("theme");
+      if (stored === "dark" || stored === "light") {
+        document.documentElement.setAttribute("data-theme", stored);
+      }
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body>
+  <div id="top-bar">
+    <div>
+      <h1>Arabic–English Dictionary</h1>
+      <p class="sub">Handles prefixes, suffixes, and conjugated forms — not just dictionary-form words.</p>
+    </div>
+    <button id="theme-toggle" type="button">Dark mode</button>
+  </div>
+
+  <div id="search-bar">
+    <input id="q" type="text" dir="auto" placeholder="اكتب كلمة عربية أو English word… (e.g. وسيكتبونها، تعلّمت، book, to write)" autofocus>
+    <button id="go">Search</button>
+  </div>
+
+  <div id="results"></div>
+
+  <footer id="attribution">
+    <p>
+      Definitions marked "Wiktionary" are adapted from
+      <a href="https://en.wiktionary.org/" target="_blank" rel="noopener">Wiktionary</a>,
+      used under
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.
+    </p>
+    <p>
+      Definitions marked "FreeDict" are from the
+      <a href="https://freedict.org/" target="_blank" rel="noopener">FreeDict</a>
+      Arabic–English dictionary, compiled by
+      <a href="https://www.arabeyes.org/" target="_blank" rel="noopener">Arabeyes.org</a>,
+      used under
+      <a href="https://www.gnu.org/licenses/gpl-2.0.html" target="_blank" rel="noopener">GPL 2.0+</a>.
+    </p>
+    <p>
+      Example sentences are drawn from
+      <a href="https://tatoeba.org/" target="_blank" rel="noopener">Tatoeba</a> (CC BY 2.0 FR),
+      the Quran (Uthmani text and Sahih International translation via the
+      <a href="https://tanzil.net/" target="_blank" rel="noopener">Tanzil</a> project),
+      and the United Nations Parallel Corpus. When using the UN Corpus, the UN requires
+      acknowledgement as the source: Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B.,
+      (2016), <em>The United Nations Parallel Corpus v1.0</em>.
+    </p>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
